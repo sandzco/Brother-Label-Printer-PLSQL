@@ -1,3 +1,9 @@
+-- =============================================
+-- Author:      Sandeep Kethireddy
+-- Create date: 12/25/2017
+-- Description: Helper script to call vis_bro package
+-- Parameters:  Replace Templ and ip to match your environment
+-- =============================================
 set serveroutput on;
 declare
 temp pls_integer;
