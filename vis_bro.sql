@@ -1,6 +1,13 @@
 CREATE OR REPLACE PACKAGE VIS_BRO AS 
 
-  /* TODO enter package declarations (types, exceptions, methods etc) here */ 
+-- =============================================
+-- Author:      Sandeep Kethireddy
+-- Create date: 12/25/2017
+-- Description: Main Package to send data to printer
+-- Parameters:  4 obj-txt combinations to pass ObjectName and Data,
+-- Parameters:  Change templ and ip to match your environment
+-- Usage:       Call from other PLSQL code, Triggers, Forms Personalization, Conc Requests etc.
+-- =============================================
   
   procedure init(obj1 in varchar2 default null,
                  txt1 in varchar2 default null,
