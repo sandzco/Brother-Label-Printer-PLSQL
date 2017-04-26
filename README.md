@@ -8,7 +8,7 @@ https://www.youtube.com/watch?v=pXk2l-g7ds8<br>
 ----------------------------------------------------
 LABEL/TEMPLATE INSTALL
 ----------------------------------------------------
-1.) Install Brother Drivers and Transfer Manager <br>
+1.) Install Brother Drivers and Transfer Manager (available from brother.com)<br>
 2.) Find Printer and connect via network(WiFi or Ethernet)<br>
 3.) Upload the Item.LBX into the Brother QL-720NW Printer<br>
 4.) Note Template Position<br>
